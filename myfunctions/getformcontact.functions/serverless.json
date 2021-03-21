@@ -1,0 +1,12 @@
+{
+  "runtime": "nodejs12.x",
+  "version": "1.0",
+  "environment": {},
+  "secrets": [],
+  "endpoints": {
+    "getformcontact": {
+      "method": "POST",
+      "file": "getformcontact.js"
+    }
+  }
+}

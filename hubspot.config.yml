@@ -1,0 +1,12 @@
+defaultPortal: sandbox
+portals:
+  - name: sandbox
+    portalId: 14526108
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CISlpJOFLxIIAAkADAAA4AEYnM32BiCjtfQIKO7pDDIZAHptWA--A22B8rYu_NTK-GquV43Zf2DdMzooAAAAQQAAAHgAAAAAAAAAAIABAAAAAAAAwADAB2D-_zEAAAAAAAAAIEIZAHptWA-gImGM0O9TaGCIg7avJogMDSdMkA
+        expiresAt: '2021-03-21T01:32:01.033Z'
+    personalAccessKey: >-
+      CiQyZmRjMTM4Zi1jNjRiLTRlZTItODRjMC00NWNhYWUwYjFkMDkQnM32BhijtfQIKhkABeaRgtvoRxwjfYNBX3WwJzqjDFztPxhG
